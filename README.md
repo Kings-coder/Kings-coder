@@ -24,9 +24,9 @@
 
 - 💬 Ask me about **Flutter, React,Boostrap**
 
-- 📫 How to reach me **amoahtnt6@gmail.com**
+- 📫 How to reach me **kingmindtech@gmail.com**
 
-- ⚡ Fun fact **I like sleeping a lot**
+- ⚡ Fun fact **I like Reading a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

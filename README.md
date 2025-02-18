@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/kingmindtech" target="blank"><img src="https://img.shields.io/twitter/follow/kingmindtech?logo=twitter&style=for-the-badge" alt="kingmindtech" /></a> </p>
 
-- 🔭 I’m currently working on [Uber clone](https://github.com/Kings-coder/uber.git)
+- 🔭 I’m currently working on [Uber clone](https://github.com/Kings-coder/sureway.git)
 
 - 🌱 I’m currently learning **flutter, React,Boostrap**
 
